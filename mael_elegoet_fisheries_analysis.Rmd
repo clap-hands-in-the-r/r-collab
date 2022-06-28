@@ -8,7 +8,9 @@ output: html_document
 url https://clap-hands-in-the-r.github.io/r-collab/
 
 this works 
-https://clap-hands-in-the-r.github.io/r-collab/mael_elegoet_fisheries_analysis
+https://clap-hands-in-the-r.github.io/r-collab/
+
+totot
 
 ```{r}
 
